@@ -1,1 +1,2 @@
-See https://www.lteforum.at/mobilfunk/script-fuer-zte-router.20462/ for more.
+Skript mit Chrome oder Dolphin Mozilla 
+Android App am besten mit Eruda (free Version)
